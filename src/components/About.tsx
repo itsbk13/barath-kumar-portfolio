@@ -68,7 +68,7 @@ export default function About() {
             ))}
           </p>
           <p style={{ marginTop: "2rem", fontSize: ".7rem", color: "rgba(245,245,240,.3)", letterSpacing: ".3em", textTransform: "uppercase" }}>
-            Coimbatore, India · 2024
+            Chennai, India · 2026
           </p>
         </div>
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1rem" }}>
