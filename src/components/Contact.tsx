@@ -54,7 +54,7 @@ export default function Contact() {
             style={{ display:"inline-flex",alignItems:"center",gap:".75rem",padding:"1rem 2.5rem",border:"1px solid #FF8000",color:"#FF8000",fontSize:".75rem",letterSpacing:".25em",textTransform:"uppercase",borderRadius:"9999px",textDecoration:"none",transition:"all .3s ease" }}
             onMouseEnter={e=>{const a=e.currentTarget;a.style.background="#FF8000";a.style.color="#0a0a0a";}}
             onMouseLeave={e=>{const a=e.currentTarget;a.style.background="transparent";a.style.color="#FF8000";}}>↓ Download Resume</a>
-          <p style={{ marginTop:"4rem",fontSize:".65rem",color:"rgba(245,245,240,.18)",letterSpacing:".1em" }}>© 2024 Barath Kumar — Coimbatore, India</p>
+          <p style={{ marginTop:"4rem",fontSize:".65rem",color:"rgba(245,245,240,.18)",letterSpacing:".1em" }}>© 2026 Barath Kumar — Chennai, India</p>
         </div>
       </div>
     </section>
